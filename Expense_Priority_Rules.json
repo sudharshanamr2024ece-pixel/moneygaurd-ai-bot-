@@ -1,0 +1,15 @@
+{
+  "Priority": [
+    "Rent",
+    "Utilities",
+    "Groceries",
+    "EMI",
+    "Medical"
+  ],
+  "Discretionary": [
+    "Shopping",
+    "Dining",
+    "Entertainment",
+    "Travel"
+  ]
+}

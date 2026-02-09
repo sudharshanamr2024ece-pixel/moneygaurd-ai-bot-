@@ -1,0 +1,20 @@
+[
+  {
+    "description_pattern": "Rent",
+    "category": "Housing",
+    "expected_day_range": "1-5",
+    "fixed_amount": 22000
+  },
+  {
+    "description_pattern": "Netflix",
+    "category": "Subscriptions",
+    "expected_day_range": "1-10",
+    "fixed_amount": 499
+  },
+  {
+    "description_pattern": "Spotify",
+    "category": "Subscriptions",
+    "expected_day_range": "15-30",
+    "fixed_amount": 199
+  }
+]

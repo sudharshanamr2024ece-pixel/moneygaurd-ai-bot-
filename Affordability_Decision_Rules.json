@@ -1,0 +1,16 @@
+{
+  "decisions": [
+    {
+      "condition": "end_balance >= minimum_balance",
+      "response": "Yes"
+    },
+    {
+      "condition": "end_balance < minimum_balance AND end_balance >= 0",
+      "response": "Risky"
+    },
+    {
+      "condition": "end_balance < 0",
+      "response": "Not advisable"
+    }
+  ]
+}

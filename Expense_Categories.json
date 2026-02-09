@@ -1,0 +1,32 @@
+{
+  "Food": [
+    "Swiggy",
+    "Zomato",
+    "Restaurant",
+    "Grocery"
+  ],
+  "Travel": [
+    "Uber",
+    "Ola",
+    "Fuel",
+    "Flight",
+    "Train"
+  ],
+  "Shopping": [
+    "Amazon",
+    "Flipkart",
+    "Clothing"
+  ],
+  "Utilities": [
+    "Electricity",
+    "Internet",
+    "Gas",
+    "Water"
+  ],
+  "Subscriptions": [
+    "Netflix",
+    "Spotify",
+    "Prime"
+  ],
+  "Others": []
+}
